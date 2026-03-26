@@ -32,6 +32,7 @@ Unlike traditional password managers that store your most sensitive data on cent
 * CMake (3.15+)
 * Android Studio & NDK (for Mobile)
 * Qt6 (for Desktop)
+* and other tools
 
 ### Desktop (Linux)
 ```bash
@@ -46,7 +47,7 @@ cmake --build .
 # Run the application
 ./CipherMesh-Desktop
 ```
-### Mobile (Android)
+### Mobile (Android)   
 ```bash
 # Navigate to the mobile source
 cd CipherMesh/src/mobile
